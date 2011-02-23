@@ -1,4 +1,4 @@
-package mavenjettydemo.foo;
+package mavenJettyPluginExample.foo;
 
 import org.springframework.web.servlet.mvc.Controller;
 import org.springframework.web.servlet.ModelAndView;
